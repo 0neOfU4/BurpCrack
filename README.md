@@ -3,9 +3,17 @@ Burp pro keygen，非原创，仅供学习，请勿滥用
 
 ![image](image.png)
 
+**使用说明：**
+
+BurpCrack主要由四部分组成，分别是keygen、loader、burpsuite jar包和快速启动脚本。
+
+其中burpsuite去官网下载即可，推荐使用Stable稳定版，目前最新版是 2022.3.9。
+
 官方下载地址：
 
 https://portswigger.net/burp/releases
+
+https://portswigger.net/burp/releases/professional-community-2022-3-9
 
 该项目仅供学习，请勿用于商业用途，有能力请支持正版
 
