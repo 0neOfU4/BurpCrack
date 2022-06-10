@@ -9,6 +9,8 @@ BurpCrack主要由四部分组成，分别是keygen、loader、burpsuite jar包�
 
 其中burpsuite去官网下载即可，推荐使用Stable稳定版，目前最新版是 2022.3.9。
 
+JRE建议使用15+版本
+
 官方下载地址：
 
 https://portswigger.net/burp/releases
