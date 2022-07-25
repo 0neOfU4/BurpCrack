@@ -359,7 +359,7 @@ public class KeygenDialog {
       panel1.setLayout(new GridLayoutManager(1, 2, new Insets(0, 0, 0, 0), -1, -1));
       this.rootPanel.add(panel1, new GridConstraints(3, 1, 1, 1, 0, 3, 3, 3, (Dimension)null, (Dimension)null, (Dimension)null, 0, false));
       this.loaderTextField = new JTextField();
-      this.loaderTextField.setEditable(false);
+//      this.loaderTextField.setEditable(false);
       this.loaderTextField.setHorizontalAlignment(0);
       this.loaderTextField.setText("");
       panel1.add(this.loaderTextField, new GridConstraints(0, 0, 1, 1, 0, 1, 4, 0, (Dimension)null, new Dimension(150, -1), (Dimension)null, 0, false));
