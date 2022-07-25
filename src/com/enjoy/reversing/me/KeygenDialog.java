@@ -155,7 +155,7 @@ public class KeygenDialog {
                KeygenDialog.this.runButton.setEnabled(true);
             }
 
-            KeygenDialog.this.loaderTextField.setText("java --patch-module java.base=" + filename + " -jar " + newest_file);
+            KeygenDialog.this.loaderTextField.setText("java -javaagent:BurpSuiteLoader.jar -noverify" + " -jar " + newest_file);
          }
       });
       this.runButton.addActionListener(new ActionListener() {
