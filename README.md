@@ -13,8 +13,8 @@ JRE建议使用15+版本
 
 ### 1、下载并安装JDK 15+
 
-通过https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html，
-选择[jdk-15.0.1_windows-x64_bin.zip](https://download.oracle.com/otn/java/jdk/15.0.1%2B9/51f4f36ad4ef43e39d0dfdbaf6549e32/jdk-15.0.1_windows-x64_bin.zip)
+通过 https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html
+选择 `jdk-15.0.1_windows-x64_bin.zip`
 
 安装完成后，打开命令行，输入 
 
