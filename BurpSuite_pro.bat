@@ -5,8 +5,6 @@ echo   / __  / / / / ___/ __ \    \__ \/ / / / / __/ _ \   / /   / / / / __  / _
 echo  / /_/ / /_/ / /  / /_/ /   ___/ / /_/ / / /_/  __/  / /___/ /_/ / /_/ / /_/ /  __/ /
 echo /_____/\____/_/  / ____/   /____/\____/_/\__/\___/  /_____/\____/\__,_/\__,_/\___/_/
 echo			/_/	
-echo  ΢�Ź��ںţ�ף�ڰ�ȫ  
+echo  Î¢ÐÅ¹«ÖÚºÅ£º×£ÈÚ°²È«  
 echo.
-start "burpsuite" /B "javaw.exe" -Xmx8G -XX:-UseParallelGC -noverify --add-opens=java.desktop/javax.swing=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED -javaagent:BurpSuiteLoader.jar -Dfile.encoding=utf-8 -jar "burpsuite_pro.jar"
-exit
-pause
+start javaw -javaagent:BurpSuiteLoader.jar -noverify -jar burpsuite_pro.jar
