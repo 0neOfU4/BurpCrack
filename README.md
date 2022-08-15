@@ -25,7 +25,7 @@ jre17为通过官网同版本中exe版提取，保证为官方版本jre，未进
 
 1、下载解压后，运行 `BurpSuite_pro.bat` 脚本和 `BurpCrack.jar` 完成破解即可
 
-![image](img/image.png)过程可参考互联网
+![image](img/image1.png)过程可参考互联网
 
 2、通过菜单栏 Help - License 查看激活状态
 
