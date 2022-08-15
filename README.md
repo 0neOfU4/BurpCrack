@@ -32,8 +32,7 @@ jre17为通过官网同版本中exe版提取，保证为官方版本jre，未进
 ![image](img/image2.png)
 
 ## 下载地址
-百度云盘：  
-链接: https://pan.baidu.com/s/19EG5SeTb87Eq61Mrq--8Ug?pwd=y2jk 提取码: y2jk
+链接: https://pan.baidu.com/s/19EG5SeTb87Eq61Mrq--8Ug?pwd=y2jk
 
 ## ❤️致谢
 
