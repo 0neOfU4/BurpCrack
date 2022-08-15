@@ -1,42 +1,35 @@
 # BurpCrack
-该项目仅供学习，请勿用于商业用途，有能力请支持正版
+该项目由祝融安全整理，仅供学习，请勿用于商业用途，有能力请支持正版
 
 ## 使用说明
 
 BurpCrack主要由四部分组成，分别是keygen、loader、burpsuite jar包和快速启动脚本。
 
-其中burpsuite去官网下载即可，推荐使用Stable稳定版，目前最新版是 2022.3.9。
+其中burpsuite jar包为官网下载，使用当前最新稳定版 2022.8.1。
 
-JRE建议使用15+版本
+采用官方 `burpsuite_pro_v2022.8.1.jar` 原包
+
+下载页面地址：
+
+https://portswigger.net/burp/releases/professional-community-2022-8-1?requestededition=professional
+
+哈希校验值
+
+`SHA256: 8b334468ec8b4956ac11eaffce8f26af16a3ccf3330bd1277ffc0598a15df83cMD5: ef5b1744fab612b98541d646a5e2f571`
+
+jre17为通过官网同版本中exe版提取，保证为官方版本jre，未进行任何修改。
+
+具体版本为 `openjdk 17.0.2 2022-01-18`
 
 ## 安装步骤
 
-### 1、下载并安装JDK 15+
+1、下载解压后，运行 `BurpSuite_pro.bat` 脚本和 `BurpCrack.jar` 完成破解即可
 
-通过 https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html
-选择 `jdk-15.0.1_windows-x64_bin.zip`
+![image](img/image.png)过程可参考互联网
 
-安装完成后，打开命令行，输入 
+2、通过菜单栏 Help - License 查看激活状态
 
-`java -version`
-
-如果显示java版本信息，即为成功安装JDK
-
-### 2、下载Burpsuite包
-
-官方下载地址：
-
-https://portswigger.net/burp/releases
-
-https://portswigger.net/burp/releases/professional-community-2022-3-9
-
-下载后将包名 `burpsuite_pro_v2022.3.9.jar` 改为 `burpsuite_pro.jar`
-
-### 3、进行破解操作
-
-运行 `BurpSuite_pro.bat` 脚本和 `BurpCrack.jar` 完成破解
-
-![image](img/image.png)
+![image](img/image2.png)
 
 ## ❤️致谢
 
