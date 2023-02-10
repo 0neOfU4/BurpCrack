@@ -32,10 +32,12 @@ jre17为通过官网同版本中exe版提取，保证为官方版本jre，未进
 ![image](img/image2.png)
 
 ## 下载地址
-[推荐] windows专版，BurpSuite_pro_win_v2022.8.1.zip【235M】  
-链接：https://pan.baidu.com/s/11Ou5QdzbDL3qiF3Mb40GQQ?pwd=5hvw  
+[推荐] windows专版，BurpSuite_pro_win_v2022.8.1.zip【236M】  （23.2.10更新，增加汉化）
+链接：https://pan.baidu.com/s/1Uei8yiakDnWUSdJwo5QFVg?pwd=gnjg 
+
 1、已移除包内其它系统chromium内核，仅保留chromium-win64内核，软件大小大幅优化  
 2、自带jre，开箱即用！
+3、增加界面汉化
 
 通用版，BurpSuite_pro_v2022.8.1.zip【577M】  
 链接: https://pan.baidu.com/s/19EG5SeTb87Eq61Mrq--8Ug?pwd=y2jk  
